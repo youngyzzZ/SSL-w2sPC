@@ -1,3 +1,3 @@
 # SSL-w2sPC
 
-We wiil release the code and dataset in few weeks!
+The implementation of ''Semi-supervised medical image segmentation via weak-to-strong perturbation consistency and edge-aware contrastive representation''.
